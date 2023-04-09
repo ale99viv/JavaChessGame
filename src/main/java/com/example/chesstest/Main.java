@@ -30,8 +30,9 @@ public class Main extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-
+        //Diooooooovvvvaaaacccaaaaa
         Group root = new Group();
+
         GridPane grid = new GridPane();
 
         root.getChildren().add(grid);
